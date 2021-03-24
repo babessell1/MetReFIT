@@ -1,0 +1,62 @@
+TRACER-GAPFILL RESULTS
+
+RESULTS FOR METABOLITE cpd00130_mr[m]	L-Malate
+
+Solved under standard parameters
+
+rxn00799_mr[m]*   1 cpd00001_mr[m] + 1 cpd00106_mr[m] <=> 1 cpd00130_mr[m]   (Has GPR)
+	Reaction is catalyzed by the following genes:
+	 -- Zm00001d048743 corresponding to the model species' gene(s) Zm00001d048743
+	 -- Zm00001d029084 corresponding to the model species' gene(s) Zm00001d029084
+	 -- Zm00001d029088 corresponding to the model species' gene(s) Zm00001d029088
+	 -- Sobic.001G378800 corresponding to the model species' gene(s) Zm00001d029088
+	 -- Seita.9G411000 corresponding to the model species' gene(s) Zm00001d029088
+	 -- AT2G47510 corresponding to the model species' gene(s) Zm00001d019992 or Zm00001d029084 or Zm00001d029088 or Zm00001d048743
+	 -- AT5G50950 corresponding to the model species' gene(s) Zm00001d019992 or Zm00001d029084 or Zm00001d029088 or Zm00001d048743
+	 -- Bradi1g63020 corresponding to the model species' gene(s) Zm00001d029084 or Zm00001d029088
+	 -- LOC_Os03g21950 corresponding to the model species' gene(s) Zm00001d029088
+
+Confidence Score: 0
+
+Conversion Code: cnssx
+........................................................................................................
+
+                                                  *L-Malate[m]*
+
+                                                        /\         
+                                                        ||        
+                                                        (S)-malate hydro-lyase (fumarate-forming)*
+                                                        ||        
+                                                        \/        
+
+                 H2O[m].................Fumarate[m]
+
+                                                         
+                                                       
+                                          
+                                                       
+                                                       
+
+........................................................................................................
+
+########################################################################################################
+
+
+
+
+Reactions solved with Confidence Score under 3.0 (Better)
+ID Tracer Rev Reaction
+"rxn00799_mr[m]" "(+)" "1 cpd00001_mr[m] + 1 cpd00106_mr[m] <=> 1 cpd00130_mr[m]" "s
+"1" "
+
+
+Reactions solved with Confidence Score between 3.0 and 5.0
+ID Tracer Rev Reaction
+"" "
+Passed Mets
+cpd00130_mr[m]
+Boosted Mets
+
+Failed Mets
+
+Skipped Mets

@@ -1,0 +1,54 @@
+TRACER-GAPFILL RESULTS
+
+RESULTS FOR METABOLITE cpd03501_mr[c]	Pelargonidin
+
+Solved under standard parameters
+
+rxn02979_mr[c]*   1 cpd00007_mr[c] + 1 cpd00024_mr[c] + 1 cpd02289_mr[c] <=> 2 cpd00001_mr[c] + 1 cpd00011_mr[c] + 1 cpd00036_mr[c] + 1 cpd03501_mr[c]   (Has GPR)
+	Reaction is catalyzed by the following genes:
+	 -- AT4G22880 corresponding to the model species' gene(s) Zm00001d011107 or Zm00001d014914
+
+Confidence Score: 0
+
+Conversion Code: ssscnsssx
+........................................................................................................
+
+     H2O[c].....CO2[c].....Succinate[c].....*Pelargonidin[c]*
+
+                                                          /\           
+                                                        ||          
+                                        leucocyanidin,2-oxoglutarate_oxygen oxidoreductase
+                                                        ||          
+                                                        \/          
+
+        O2[c]........2-Oxoglutarate[c]........cis-3,4-Leucopelargonidin[c]
+
+                                                                                  
+                                                                               
+                                                
+                                                                               
+                                                                               
+
+........................................................................................................
+
+########################################################################################################
+
+
+
+
+Reactions solved with Confidence Score under 3.0 (Better)
+ID Tracer Rev Reaction
+"rxn02979_mr[c]" "(+)" "1 cpd00007_mr[c] + 1 cpd00024_mr[c] + 1 cpd02289_mr[c] <=> 2 cpd00001_mr[c] + 1 cpd00011_mr[c] + 1 cpd00036_mr[c] + 1 cpd03501_mr[c]" "s
+"1" "
+
+
+Reactions solved with Confidence Score between 3.0 and 5.0
+ID Tracer Rev Reaction
+"" "
+Passed Mets
+cpd03501_mr[c]
+Boosted Mets
+
+Failed Mets
+
+Skipped Mets

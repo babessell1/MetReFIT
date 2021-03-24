@@ -1,0 +1,38 @@
+TRACER-GAPFILL RESULTS
+
+RESULTS FOR METABOLITE cpd00070_mr[x]	Malonyl-CoA
+
+Solved under standard parameters
+
+rxn00174_mr[x]*   1 cpd00011_mr[x] + 1 cpd00022_mr[x] => 1 cpd00067_mr[x] + 1 cpd00070_mr[x]   (Has GPR)
+	Reaction is catalyzed by the following genes:
+	 -- Sobic.002G193500 corresponding to the model species' gene(s) Zm00001d005711
+	 -- Seita.2G196300 corresponding to the model species' gene(s) Zm00001d005711
+	 -- Bradi4g29630 corresponding to the model species' gene(s) Zm00001d005711
+	 -- LOC_Os09g23070 corresponding to the model species' gene(s) Zm00001d005711
+
+Confidence Score: 0
+
+Conversion Code: scnssx
+........................................................................................................
+
+                 H+[x].................*Malonyl-CoA[x]*
+
+                                                 /\          
+                                                 ||         
+                                            rxn00174_mr[x]*
+                                                 ||         
+                                                 \/         
+
+                 CO2[x].................Acetyl-CoA[x]
+
+                                                           
+                                                         
+                                           
+                                                         
+                                                         
+
+........................................................................................................
+
+########################################################################################################
+
